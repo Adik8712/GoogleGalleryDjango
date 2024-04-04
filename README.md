@@ -1,5 +1,3 @@
-Доработка README.md для проекта интернет-магазина на Django с функционалом парсинга аниме:
-
 ## Интернет-магазин на Django с парсингом аниме
 
 ![GoogleGallery](https://img.shields.io/badge/GoogleGallery-Django-brightgreen)
